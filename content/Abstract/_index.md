@@ -6,10 +6,17 @@ resources:
 - src: Abstract/Abstract (1).jpg
   alt: Door with a Black Hole
   phototitle: Opening
-  description: What is behind?
-- src: fish/fish_02.jpg
-  alt: A clownfish poking around in some sea anemone or something
-  phototitle: Class Clown
-  description: There's one in every school
+- src: Abstract/Abstract (2).jpg
+  alt: Sliced Apple
+  phototitle: Apple
+- src: Abstract/Abstract (3).jpg
+  alt: Sliced Apple B&W
+  phototitle: Apple B&W
+- src: Abstract/Abstract (4).jpg
+  alt: Brick Hole
+  phototitle:  The Wall is Crumbling in.
+- src: Abstract/Abstract (5).jpg
+  alt: 
+  phototitle: Hooded
 ---
 
