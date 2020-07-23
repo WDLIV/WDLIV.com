@@ -16,10 +16,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
     #msvalidate = ""
     #googlesiteverification = ""
-    #thumb_width = 580
-    #thumb_quality = 60
-    #full_width = 960
-    #full_quality = 90
+    thumb_width = 780
+    thumb_quality = 85
+    full_width = 980
+    full_quality = 100
     
     # Headerbar links
     # Do not put here too many links,
