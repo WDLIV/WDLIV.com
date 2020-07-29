@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://WDLIV.com/"
+baseurl = "http://www.WDLIV.com/"
 languageCode = "en-us"
 title = "WDLIV Photography"
 theme = "autophugo"
